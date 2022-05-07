@@ -11,10 +11,12 @@ print("12312321")
 
 print("12312321")
 
+print("asdfasdfasdfasdfasdfasdasdfasdfasdfasdfasasdfasdfasdfasdfasdfasdfasdfsadfsdaf")
 print("asdfasdfasdfasdfasdfasdasdfasdfasdfasdfasdfasdfasdfasdfasdfsadfsdaf")
 print("asdfasdfasdfasdfasdfasdasdfasdfasdfasdfasdfasdfasdfasdfasdfsadfsdaf")
 print("asdfasdfasdfasdfasdfasdasdfasdfasdfasdfasdfasdfasdfasdfasdfsadfsdaf")
-print("asdfasdfasdfasdfasdfasdasdfasdfasdfasdfasdfasdfasdfasdfasdfsadfsdaf")
+
+
 
 window.resizable(width=False,height=1)
 window.mainloop()
